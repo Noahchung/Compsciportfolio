@@ -33,3 +33,10 @@ h2 {
 p {
   tex-align: center;
 }
+
+body {
+  background-color: lightgreen;
+  text-align: center;
+  color: black;
+}
+
