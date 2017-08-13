@@ -40,3 +40,9 @@ body {
   color: black;
 }
 
+img {
+  float: center;
+  border-style: double;
+  border-radius: 50px;
+}
+
