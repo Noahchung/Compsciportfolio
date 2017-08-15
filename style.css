@@ -1,5 +1,5 @@
 h4 {
-  color: lightgreen;
+  color: black;
   font-family: monospace;
     text-decoration: underline;
   font-size: 15px;
@@ -39,7 +39,7 @@ p {
 body {
   background-color: lightblue;
   text-align: center;
-  color: lightgreen;
+  color: black;
 }
 
 img {
