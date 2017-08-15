@@ -1,5 +1,5 @@
 h4 {
-  color: lightblue;
+  color: lightred;
   font-family: monospace;
     text-decoration: underline;
   font-size: 15px;
@@ -11,7 +11,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 li a {
@@ -29,7 +29,7 @@ li a:hover {
 
 h2 {
   font-size: 50px;
-    color:lightblue;
+    color:lightgreen;
 }
 
 p {
@@ -37,9 +37,9 @@ p {
 }
 
 body {
-  background-color: lightgreen;
+  background-color: lightblue;
   text-align: center;
-  color: lightblue;
+  color: lightgreen;
 }
 
 img {
