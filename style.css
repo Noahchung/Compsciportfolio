@@ -56,3 +56,10 @@ div {
   align: center;
   display: block;
 }
+
+table, td, th {
+    border: 1px solid lightgreen;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
