@@ -57,3 +57,10 @@ div {
   display: block;
 }
 
+.about me 1 {
+  float:left
+}
+
+.about me 2 {
+  float: right
+}
