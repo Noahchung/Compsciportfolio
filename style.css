@@ -50,3 +50,8 @@ img {
   height: 500px;
 }
 
+div {
+  align: center;
+  display: block;
+}
+
