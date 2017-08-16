@@ -45,11 +45,11 @@ body {
 }
 
 img {
-  float: center;
+ 
   border-style: double;
-  border-radius: 50px;
-  width: 500px;
-  height: 500px;
+  border-radius: 20px;
+  width: 400px;
+  height: 400px;
 }
 
 div {
